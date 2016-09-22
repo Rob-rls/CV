@@ -32,11 +32,11 @@ I enjoy learning and am not afraid to try new technologies.
 
 Some examples of my projects are below.
 
-| Project | Description | Technologies | Testing |Links|
+| Project | Description | Technologies | Testing |
 |---|---|---|---|---|
-|Run to Riches|An Android app that lets you collect coins as you run!|Java, XML, Android Studio| JUnit, Mokito, Espresso| [GitHub](https://github.com/Rob-rls/PlatformerRun) |
-|Comic Builder|This little web app lets users build a simple 3 picutre comic strip.| Ruby, Rails, JavaScript, Jquery, PostgreSQL, TinyColorPicker| Rspec, Jasmine, Capybara|[GitHub](https://github.com/Rob-rls/comic-builder.git) |
-|IngloriousBnB| An AirBnB clone to learn MVC and Database integration|Ruby, Sinatra, PostgreSQL|Rspec, Capybara|[GitHub](https://github.com/samjbro/inglourious-BnBsterds)|
+|[Run to Riches](https://github.com/Rob-rls/PlatformerRun)|An Android app that lets you collect coins as you run!|Java, XML, Android Studio| JUnit, Mokito, Espresso|
+|[Comic Builder](https://github.com/Rob-rls/comic-builder.git) |This little web app lets users build a simple 3 picutre comic strip.| Ruby, Rails, JavaScript, Jquery, PostgreSQL, TinyColorPicker| Rspec, Jasmine, Capybara|
+|[IngloriousBnB](https://github.com/samjbro/inglourious-BnBsterds)| An AirBnB clone to learn MVC and Database integration|Ruby, Sinatra, PostgreSQL|Rspec, Capybara|
 
 #### Wabash College (1997 - 2002)
 
@@ -50,7 +50,7 @@ Some examples of my projects are below.
 My non developer life is all documented on [LinkedIn](https://www.linkedin.com/in/robert-summers-5213578b).  Some recent highlights are below.
 
 #### Senior Operations Technician - Axis Capital, London (2014 - 2016)
-  * I was the senior member of the operations team.  My biggest accomplishment was being a product owner where I was able to work on the entire development cycle for a piece of software.  I had to provide input for the speciation and continual feedback to the development team throughout the process.  The product launched and returned valuable MI on the day-to-day production of the department.
+  * I was the senior member of the operations team.  My biggest accomplishment was being a product owner where I was able to work on the entire development cycle for a piece of software.  I had to provide input for the specification and continual feedback to the development team throughout the process.  The product launched and returned valuable MI on the day-to-day production of the department.
 
 #### Senior Account Technician - Allianz, Sydney (2013 - 2014)
   * I was transferred to Sydney to help upscale the local team's global insurance capabilities.  There, I worked very closely with local brokers for whom I designed and lead a workshop on global insurance programs.
