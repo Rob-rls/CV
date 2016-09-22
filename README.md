@@ -2,7 +2,7 @@
 
 I am a former insurance professional who has worked in the US, Australia and the UK.  In my previous career, I found that the tasks I enjoyed most allowed me to use my creativity, problem-solving skills, and work on project teams.  This lead me to rediscover a passion for code from my childhood where I used to make little text adventure games in BASIC on an Apple IIe.
 
-I have recently learned web development at [Makers Academy](http://www.makersacademy.com/), an intensive 16-week bootcamp where the focus was on instilling the values of clean code and software craftsmanship.  
+I have recently learned web development at [Makers Academy](http://www.makersacademy.com/), an intensive 16-week bootcamp where the focus was on instilling the values of clean code and software craftsmanship.
 
 ## Skills
 
@@ -49,4 +49,8 @@ Some examples of my projects are below.
 
 My non developer life is all documented on [LinkedIn](https://www.linkedin.com/in/robert-summers-5213578b).  Some recent highlights are below.
 
-### Senior Operations Technician - Axis Capital
+#### Senior Operations Technician - Axis Capital, London (2014 - 2016)
+  * I was the senior member of the operations team.  My biggest accomplishment was being a product owner where I was able to work on the entire development cycle for a piece of software.  I had to provide input for the speciation and continual feedback to the development team throughout the process.  The product launched and returned valuable MI on the day-to-day production of the department.
+
+#### Senior Account Technician - Allianz, Sydney (2013 - 2014)
+  * I was transferred to Sydney to help upscale the local team's global insurance capabilities.  There, I worked very closely with local brokers for whom I designed and lead a workshop on global insurance programs.
