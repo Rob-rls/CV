@@ -34,7 +34,7 @@ Some examples of my projects are below.
 
 | Project | Description | Technologies | Testing |
 |---|---|---|---|---|
-|[Run to Riches](https://github.com/Rob-rls/PlatformerRun)|An Android app that lets you collect coins as you run!|Java, XML, Android Studio| JUnit, Mokito, Espresso|
+|[Run to Riches](https://github.com/Rob-rls/PlatformerRun)|An Android app that makes running a game.  The user collects coins after running a certain distance.|Java, XML, Android Studio| JUnit, Mokito, Espresso|
 |[Comic Builder](https://github.com/Rob-rls/comic-builder.git) |This little web app lets users build a simple 3 picutre comic strip.| Ruby, Rails, JavaScript, Jquery, PostgreSQL, TinyColorPicker| Rspec, Jasmine, Capybara|
 |[IngloriousBnB](https://github.com/samjbro/inglourious-BnBsterds)| An AirBnB clone to learn MVC and Database integration|Ruby, Sinatra, PostgreSQL|Rspec, Capybara|
 
