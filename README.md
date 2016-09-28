@@ -6,6 +6,11 @@ I have recently learned web development at [Makers Academy](http://www.makersaca
 
 ## Skills
 
+#### Passion for code
+If you are reading this far, then perhaps you understand what a passion for code means.  Everyday, I find myself in front of my computer, not because I have to, but because I want to.  Here are some of the things I do.
+* I currently contribute to an open source web app for a charity organization.  I work remotely with a team of people from around the world who practice agile methodologies and share passion to code.  You can see the work [here.](https://github.com/Rob-rls/LocalSupport)
+* To help up skill the next generations of coders, I volunteer with Code Club.  Currently we are working on getting a club set up at the local school in my area.
+
 #### Teamwork
 
 I have over 10 years of professional work within teams.  I understand that no task is too small and to value input from the group.
@@ -16,13 +21,6 @@ I have over 10 years of professional work within teams.  I understand that no ta
 I enjoy learning and am not afraid to try new technologies.
 * Without any prior knowledge of the platform or technologies used, I (with my team) crated an Android app using Java in less than 2 weeks.  You can view the code [here](https://github.com/Rob-rls/PlatformerRun)
 * While working in insurance, I keep up with my education and sat for professional exams with the CII (Chartered Insurance Institute).
-
-#### Passion for code
-If you are reading this far, then perhaps you understand what a passion for code means.  Everyday, I find myself in front of my computer, not because I have to, but because I want to.  Here are some of the things I do.
-* I currently contribute to an open source web app for a charity organization.  I work remotely with a team of people from around the world who practice agile methodologies and share passion to code.  You can see the work [here.](https://github.com/Rob-rls/LocalSupport)
-* To help up skill the next generations of coders, I volunteer with Code Club.  Currently we are working on getting a club set up on the local school in my area.
-
-
 
 ## Education
 
@@ -40,8 +38,8 @@ Some examples of my projects are below.
 | Project | Description | Technologies | Testing |
 |---|---|---|---|---|
 |[Run to Riches](https://github.com/Rob-rls/PlatformerRun)|An Android app that makes running a game.  The user collects coins after running a certain distance.|Java, XML, Android Studio| JUnit, Mokito, Espresso|
-|[Comic Builder](https://github.com/Rob-rls/comic-builder.git) |This little web app lets users build a simple 3 picutre comic strip.| Ruby, Rails, JavaScript, Jquery, PostgreSQL, TinyColorPicker| Rspec, Jasmine, Capybara|
-|[IngloriousBnB](https://github.com/samjbro/inglourious-BnBsterds)| An AirBnB clone to learn MVC and Database integration|Ruby, Sinatra, PostgreSQL|Rspec, Capybara|
+|[Comic Builder (GitHub)](https://github.com/Rob-rls/comic-builder.git)<br><br> [(Heroku)](http://comic-builder.herokuapp.com/) |This little web app lets users build a simple 3 picutre comic strip. Was originaly built in only 3.5 days!| Ruby, Rails, JavaScript, Jquery, PostgreSQL, TinyColorPicker| Rspec, Jasmine, Capybara|
+|[IngloriousBnB (GitHub)](https://github.com/samjbro/inglourious-BnBsterds)<br><br> [(Heroku)](https://inglourious-bnbsterds.herokuapp.com/)| An AirBnB clone to learn MVC and Database integration|Ruby, Sinatra, PostgreSQL|Rspec, Capybara|
 
 #### Wabash College (1997 - 2002)
 
