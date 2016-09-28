@@ -17,6 +17,11 @@ I enjoy learning and am not afraid to try new technologies.
 * Without any prior knowledge of the platform or technologies used, I (with my team) crated an Android app using Java in less than 2 weeks.  You can view the code [here](https://github.com/Rob-rls/PlatformerRun)
 * While working in insurance, I keep up with my education and sat for professional exams with the CII (Chartered Insurance Institute).
 
+#### Passion for code
+If you are reading this far, then perhaps you understand what a passion for code means.  Everyday, I find myself in front of my computer, not because I have to, but because I want to.  Here are some of the things I do.
+* I currently contribute to an open source web app for a charity organization.  I work remotely with a team of people from around the world who practice agile methodologies and share passion to code.  You can see the work [here.](https://github.com/Rob-rls/LocalSupport)
+* To help up skill the next generations of coders, I volunteer with Code Club.  Currently we are working on getting a club set up on the local school in my area.
+
 
 
 ## Education
