@@ -1,8 +1,8 @@
 # Robert Summers
 
-I am a former insurance professional who has worked in the US, Australia and the UK.  In my previous career, I found that the tasks I enjoyed most allowed me to use my creativity, problem-solving skills, and work on project teams.  This lead me to rediscover a passion for code from my childhood where I used to make little text adventure games in BASIC on an Apple IIe.
+I am a former insurance professional who has worked in the US, Australia and the UK.  In my previous career, I found that the tasks I enjoyed most allowed me to use my creativity, problem-solving skills, and work on project teams.  This lead me to rediscover a passion for code from my childhood where I used to make text adventure games in BASIC on an Apple IIe.
 
-I have recently learned web development at [Makers Academy](http://www.makersacademy.com/), an intensive 16-week bootcamp where the focus was on instilling the values of clean code and software craftsmanship.
+I have recently learned web development at [Makers Academy](http://www.makersacademy.com/), an intensive 12-week bootcamp where the focus was on instilling the values of clean code and software craftsmanship.
 
 ## Skills
 
@@ -19,7 +19,7 @@ I have over 10 years of professional work within teams.  I understand that no ta
 
 #### Fast learner
 I enjoy learning and am not afraid to try new technologies.
-* Without any prior knowledge of the platform or technologies used, I (with my team) crated an Android app using Java in less than 2 weeks.  You can view the code [here](https://github.com/Rob-rls/PlatformerRun)
+* Without any prior knowledge of the platform or technologies used, I (with my team) created an Android app using Java in less than 2 weeks.  You can view the code [here](https://github.com/Rob-rls/PlatformerRun)
 * While working in insurance, I keep up with my education and sat for professional exams with the CII (Chartered Insurance Institute).
 
 ## Education
