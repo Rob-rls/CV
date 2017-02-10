@@ -1,5 +1,7 @@
 # Robert Summers
 
+Currently Employed
+
 I am a former insurance professional who has worked in the US, Australia and the UK.  In my previous career, I found that the tasks I enjoyed most allowed me to use my creativity, problem-solving skills, and work on project teams.  This lead me to rediscover a passion for code from my childhood where I used to make text adventure games in BASIC on an Apple IIe.
 
 I have recently learned web development at [Makers Academy](http://www.makersacademy.com/), an intensive 12-week bootcamp where the focus was on instilling the values of clean code and software craftsmanship.
