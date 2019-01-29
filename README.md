@@ -37,11 +37,12 @@ I enjoy learning and am not afraid to try new technologies.
 
 Some examples of my projects are below.
 
-| Project | Description | Technologies | Testing |
-|---|---|---|---|---|
-|[Run to Riches](https://github.com/Rob-rls/PlatformerRun)|An Android app that makes running a game.  The user collects coins after running a certain distance.|Java, XML, Android Studio| JUnit, Mokito, Espresso|
-|[Comic Builder (GitHub)](https://github.com/Rob-rls/comic-builder.git)<br><br> [(Heroku)](http://comic-builder.herokuapp.com/) |This little web app lets users build a simple 3 picutre comic strip. Was originaly built in only 3.5 days!| Ruby, Rails, JavaScript, Jquery, PostgreSQL, TinyColorPicker| Rspec, Jasmine, Capybara|
-|[IngloriousBnB (GitHub)](https://github.com/samjbro/inglourious-BnBsterds)<br><br> [(Heroku)](https://inglourious-bnbsterds.herokuapp.com/)| An AirBnB clone to learn MVC and Database integration|Ruby, Sinatra, PostgreSQL|Rspec, Capybara|
+| Project                                                                                                                                     | Description                                                                                                | Technologies                                                 | Testing                  |  |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------|--|
+| [Run to Riches](https://github.com/Rob-rls/PlatformerRun)                                                                                   | An Android app that makes running a game.  The user collects coins after running a certain distance.       | Java, XML, Android Studio                                    | JUnit, Mokito, Espresso  |  |
+| [Comic Builder (GitHub)](https://github.com/Rob-rls/comic-builder.git)<br><br> [(Heroku)](http://comic-builder.herokuapp.com/)              | This little web app lets users build a simple 3 picutre comic strip. Was originaly built in only 3.5 days! | Ruby, Rails, JavaScript, Jquery, PostgreSQL, TinyColorPicker | Rspec, Jasmine, Capybara |  |
+| [IngloriousBnB (GitHub)](https://github.com/samjbro/inglourious-BnBsterds)<br><br> [(Heroku)](https://inglourious-bnbsterds.herokuapp.com/) | An AirBnB clone to learn MVC and Database integration                                                      | Ruby, Sinatra, PostgreSQL                                    | Rspec, Capybara          |  |
+
 
 #### Wabash College (1997 - 2002)
 
